@@ -1,13 +1,13 @@
-# Calculadora Python com Histórico
+# Python Calculator with History
 
-Uma calculadora simples em Python que realiza operações básicas e salva o histórico no banco de dados SQLite. Ideal para fins educativos e para adicionar ao currículo.
+A simple Python calculator that performs basic operations and saves the history in a SQLite database. Perfect for educational purposes and to add to your portfolio.
 
 ---
 
-## Funcionalidades
+## Features
 
-- Soma, subtração com possibilidades de crescimento
-- Histórico das operações salvas no SQLite
-- Código modular: funções, banco de dados e interface separados
+- Addition and subtraction (expandable for more operations)
+- Operation history saved in SQLite
+- Modular code: functions, database, and interface separated
 
 ---
